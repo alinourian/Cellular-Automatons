@@ -24,7 +24,7 @@
 </p>
 
 
-- ## Voter Model Automaton:
+- ## Voters Model Automaton:
 
 <p align="center">
   <img width="300" height="300" src="https://user-images.githubusercontent.com/64698354/148691614-3a684cf7-ecba-4212-bbaa-311e8afd6b81.png">
