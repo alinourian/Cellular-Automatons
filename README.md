@@ -30,6 +30,3 @@
   <img width="300" height="300" src="https://user-images.githubusercontent.com/64698354/148691614-3a684cf7-ecba-4212-bbaa-311e8afd6b81.png">
   <img width="300" height="300" src="https://user-images.githubusercontent.com/64698354/148691615-896e2b04-116a-4787-9c04-5ee8af1ff8d5.png">
 </p>
-
-
-![CCA](https://user-images.githubusercontent.com/64698354/148691898-952b3504-b71b-4246-95d0-e264c884e54b.gif)
